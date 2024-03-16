@@ -26,8 +26,8 @@ Thechniques =  list(dict.fromkeys(Thechniques)) # Remove Duplicates
 # Generate MITRE Layer
 
 Layer_Template = {
-    "description": "Techniques Covered by Azure Sentinel Rules and Queries",
-    "name": "Azure Sentinel Coverage",
+    "description": "Unified Navigation Layer",
+    "name": "Unified Navigation Layer",
     "domain": "mitre-enterprise",
     "version": "4.5",
     "techniques": 
